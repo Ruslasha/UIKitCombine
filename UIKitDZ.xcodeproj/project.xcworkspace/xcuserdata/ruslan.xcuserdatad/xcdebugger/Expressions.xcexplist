@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "ViewController.tapFirstButton(_:):ViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "firstMusicImageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageViewController.tableView(_:numberOfRowsInSection:):MainPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "posts">
+            </PersistentString>
+            <PersistentString
+               value = "posts.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AuthorisationViewController.textDidChange(_:):AuthorisationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "!loginText.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "loginText.isEmpty">
+            </PersistentString>
+            <PersistentString
+               value = "loginButton.alpha">
+            </PersistentString>
+            <PersistentString
+               value = "!passwordText.isEmpty ">
+            </PersistentString>
+            <PersistentString
+               value = "emailTextField.text!.isEmpty">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "NotificationViewController.viewDidLoad():NotificationViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "notifications">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PhotoCollectionCell.collectionView(_:numberOfItemsInSection:):PhotoCollectionCell.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " photos.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MainPageViewController.viewDidLoad():MainPageViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "posts">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PlayerViewController.viewDidLoad():PlayerViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = " logoImageView.image">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
